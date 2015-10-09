@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4057"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 3">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="350"
+     inkscape:cy="520"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.70866142;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 190.61365,452.70021 318.7727,0 m 0,0 0,159.32394 -318.7727,0 0,-159.32394"
+       id="rect5485"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.5275239;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5497"
+       sodipodi:cx="55.555557"
+       sodipodi:cy="1343.7749"
+       sodipodi:rx="5.2287583"
+       sodipodi:ry="5.2287583"
+       d="m 60.784316,1343.7749 a 5.2287583,5.2287583 0 1 1 -10.457517,0 5.2287583,5.2287583 0 1 1 10.457517,0 z"
+       transform="matrix(1.3433797,0,0,1.3433665,142.49384,-1217.8988)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.5275239;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5497-1"
+       sodipodi:cx="55.555557"
+       sodipodi:cy="1343.7749"
+       sodipodi:rx="5.2287583"
+       sodipodi:ry="5.2287583"
+       d="m 60.784316,1343.7749 a 5.2287583,5.2287583 0 1 1 -10.457517,0 5.2287583,5.2287583 0 1 1 10.457517,0 z"
+       transform="matrix(1.3433797,0,0,1.3433665,142.49384,-1327.7413)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.5275239;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5497-7"
+       sodipodi:cx="55.555557"
+       sodipodi:cy="1343.7749"
+       sodipodi:rx="5.2287583"
+       sodipodi:ry="5.2287583"
+       d="m 60.784316,1343.7749 a 5.2287583,5.2287583 0 1 1 -10.457517,0 5.2287583,5.2287583 0 1 1 10.457517,0 z"
+       transform="matrix(1.3433797,0,0,1.3433665,408.24187,-1217.8988)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.5275239;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5497-4"
+       sodipodi:cx="55.555557"
+       sodipodi:cy="1343.7749"
+       sodipodi:rx="5.2287583"
+       sodipodi:ry="5.2287583"
+       d="m 60.784316,1343.7749 a 5.2287583,5.2287583 0 1 1 -10.457517,0 5.2287583,5.2287583 0 1 1 10.457517,0 z"
+       transform="matrix(1.3433797,0,0,1.3433665,408.24187,-1327.7413)" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path5879"
+       d="m 229.59002,500.53501 240.81989,0 m 0,0 0,67.19789 -240.81989,0 0,-67.19789"
+       style="fill:none;stroke:#000000;stroke-width:0.70866142;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
